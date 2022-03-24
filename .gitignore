@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/LibmpvPlayer/v16
+/LibmpvPlayer/x64
+/x64/Debug/LibmpvPlayer.pdb
+/x64/Debug/LibmpvPlayer.ilk

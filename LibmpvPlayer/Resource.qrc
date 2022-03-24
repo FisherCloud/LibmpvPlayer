@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/LibmpvPlayer"/>
+    <qresource prefix="/">
+        <file>Resource/pause_black.png</file>
+        <file>Resource/pause_white.png</file>
+        <file>Resource/play_black.png</file>
+        <file>Resource/play_white.png</file>
+    </qresource>
+</RCC>
